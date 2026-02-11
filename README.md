@@ -24,7 +24,7 @@
 - 🎓 I’m a **Computer Engineering Student** passionate about solving complex problems.
 - 🔭 I’m currently working on integrating **Artificial Intelligence** with robust **Backend Systems**.
 - 🛠️ I love optimizing code and believe in clean, scalable architecture.
-- ⚡ **Fun fact:** I treat my code like poetry; structure matters as much as function.
+- ⚡ **Fun fact:** I am a Full Stack Overflow Developer
 
 ---
 
