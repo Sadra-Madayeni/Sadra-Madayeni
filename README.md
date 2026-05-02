@@ -1,46 +1,63 @@
-<div align="center">
+<h1 align="center">Hi, I'm Sadra</h1>
+<h3 align="center">Computer Engineering Student</h3>
 
-# Sadra Madayeni Avval
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3590F3&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+%26+Frontend+Developer;AI+Enthusiast" alt="Typing SVG" />
-
-### 🚀 Building the bridge between **Data** and **Web Technologies**
-
-<a href="https://linkedin.com/in/sadra-madayeni">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.leetcode.com/sadra_madayeni">
-  <img src="https://img.shields.io/badge/Solve-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<br/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27F114&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Deep+Diving+into+APIs+Architecture;" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m a **Computer Engineering Student** passionate about solving complex problems.
-- 🔭 I’m currently working on integrating **Artificial Intelligence** with robust **Backend Systems**.
-- 🛠️ I love optimizing code and believe in clean, scalable architecture.
-- ⚡ **Fun fact:** I am a Full Stack Overflow Developer
+- 🔭 I’m a **Full Stack Developer** with a solid foundation in Computer Engineering.
+- 🌱 I’m currently diving deep into **APIs**, focusing on their architecture, optimization, and real-world impact in modern software.
+- 💬 Ask me about **RESTful APIs, Python and DevOps**.
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack & Skills
 
-<div align="center">
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Verilog-153D70?style=for-the-badge&logo=siemens&logoColor=white" />
+</p>
 
-| **Category** | **Technologies** |
-|:---:|:---:|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **AI & Data** | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-</div>
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+**Machine Learning & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
