@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sadra</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27F114&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Deep+Diving+into+APIs+Architecture;" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
