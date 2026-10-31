@@ -1,21 +1,16 @@
 <h1 align="center">Hi, I'm Sadra</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27F114&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Deep+Diving+into+APIs+Architecture;" alt="Typing SVG" />
-</p> -->
-
 ---
 
 ### About Me
 
-- 🔭 I’m a **Full Stack Developer** with a solid foundation in Computer Engineering.
-- 🌱 I’m currently diving deep into **APIs**, focusing on their architecture, optimization, and real-world impact in modern software.
-- 💬 Ask me about **RESTful APIs, Python and DevOps**.
+- I’m a **Full Stack Developer** with a solid foundation in Computer Engineering and DevOps.
+- I’m currently diving deep into **APIs**, focusing on their architecture, optimization, and real-world impact in modern software.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Languages**
 <p>
