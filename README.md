@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Sadra</h1>
+
 <h3 align="center">Computer Engineering Student</h3>
 
 ---
-
-### About Me
 
 - I’m a **Full Stack Developer** with a solid foundation in Computer Engineering and DevOps.
 - I’m currently diving deep into **APIs**, focusing on their architecture, optimization, and real-world impact in modern software.
